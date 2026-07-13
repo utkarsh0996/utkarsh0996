@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Utkarsh Pathak 👋
 
-<!--
-**utkarsh0996/utkarsh0996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Robotics | Automation | IoT | Embedded Systems
 
-Here are some ideas to get you started:
+Electronics & Communication Engineering student passionate about designing intelligent robotic systems and smart automation solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- 🤖 Robotics
+- ⚙️ Industrial Automation
+- 🌐 Internet of Things (IoT)
+- 🏠 Smart Home Systems
+- 🔌 Embedded Systems
+
+### Current Projects
+- High-Speed Line Follower Robot
+- Robotic Arm
+- ESP32 Smart Home
+- IoT Monitoring Systems
+
+### Technical Skills
+- Arduino
+- ESP32
+- C/C++
+- Git & GitHub
+- Robotics
+- IOT
+- Embedded Systems
+
+### Soft SKills
+- Problem Solving
+- Analytical Thinking
+- Team Collaboration
+- Leadership
+- Technical Communication
+- Time Management
+- Adaptability
+- Project Planning
+- Attention to Detail
+- Continuous Learning
+
+### Currently Learning
+- STM32
+- SolidWorks
