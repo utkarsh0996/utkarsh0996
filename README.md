@@ -20,7 +20,7 @@ Electronics & Communication Engineering student passionate about designing intel
 ### Technical Skills
 - Arduino
 - ESP32
-- C/C++
+- Embedded C/C++
 - Git & GitHub
 - Robotics
 - IOT
