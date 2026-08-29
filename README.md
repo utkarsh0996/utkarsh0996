@@ -12,7 +12,7 @@ Electronics & Communication Engineering student passionate about designing intel
 - 🔌 Embedded Systems
 
 ### Current Projects
-- High-Speed Line Follower Robot
+- Autonomous AI Search & Rescue Drone
 - Robotic Arm
 - ESP32 Smart Home
 - IoT Monitoring Systems
