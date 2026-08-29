@@ -18,13 +18,17 @@ Electronics & Communication Engineering student passionate about designing intel
 - IoT Monitoring Systems
 
 ### Technical Skills
-- Arduino
-- ESP32
-- Embedded C/C++
-- Git & GitHub
-- Robotics
-- IOT
+- Digital Electronics & Logic Design
+- Sequential & Combinational Logic
+- Microcontrollers
 - Embedded Systems
+- Embedded C / C Programming
+- Sensors & Actuators
+- Arduino / ESP32
+- VLSI Fundamentals
+- Robotics & Mechatronics
+- IoT Fundamentals
+- PCB Design Basics
 
 ### Soft SKills
 - Problem Solving
